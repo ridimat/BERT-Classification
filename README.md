@@ -20,7 +20,7 @@ Mortgages/loans
 Others
 Evaluation: Measured the performance of the fine-tuned BERT model using accuracy and loss metrics.
 
-Dataset
+Dataset:
 The dataset contains customer complaints data in JSON format. Due to size constraints, the data is hosted on Google Drive. You can download the data from the link below:
 https://drive.google.com/file/d/1PQz6iDH1WrJIyn-myhRfvdfgvN6qEvPq/view?usp=sharing
 
